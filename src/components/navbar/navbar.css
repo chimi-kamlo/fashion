@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1377px;
+    height: 100px;
+    margin-top: 10px;
+}
+.logo{
+    color: #224F34;
+    font-size: 40px;
+     font-weight: 400;
+ text-transform: uppercase;
+ font-family: Elephant;
+}
+.navigation_button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+nav>ul {
+    display: flex;
+}
+nav>ul li{
+    width: 108px;
+    height: 33px;
+    list-style-type: none;
+   text-align: center;
+  padding: 10px;
+}
+.link{
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.navigation{
+    width: 70%;
+}
+.margin_left{
+    margin-left: 40px;
+}
+
+
+.login{
+    width: 142px;
+    height: 52px;
+}

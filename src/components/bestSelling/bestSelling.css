@@ -1,0 +1,61 @@
+.bestSelling{
+    width: 100%;
+    height: 980px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.bestSelling>div{
+    width: 1377px ;
+    height: 980px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bestSelling h1{
+    width: 352px;
+    height: 84px;
+    font-family: Roboto Slab;
+    font-size: 64px;
+}
+.bestSelling p {
+    width: 750px;
+    height: 33px;
+   font-family: Poppins;
+   font-size: 22px;
+   margin-left: 100px;
+   display: block;
+   
+}
+.bestSelling p,.bestSelling h1{
+    color: #224F34;
+    font-weight: 500;
+}
+.contain_cart{
+    width: 1377px ;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.bestSellingButton{
+    width: 224px;
+    height: 65;
+    padding: 16px 55px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 22px;
+   font-weight: 500;
+}
+.flecheIcon{
+    margin-left: 10px;
+    width: 23px;
+    max-width: 23px;
+    height: 15px;
+    max-height: 15px;
+}

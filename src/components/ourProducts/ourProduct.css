@@ -1,0 +1,44 @@
+.ourProduct h1{
+    width: 308px;
+    height: 66px;
+    color: #224F34;
+   font-family: Roboto Slab;
+   font-size: 50px;
+   font-weight: 500;
+}
+.ourProduct{
+    width: 100%;
+    width: 100%;
+    height: 1300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.ourProduct>div{
+    width: 1377px ;
+    height: 1300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.category{
+    width: 700px;
+    height: 33px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    color: #454545;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.product_contain_cart{
+    width: 1377px ;
+    height: 1300px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}

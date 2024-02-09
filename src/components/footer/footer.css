@@ -1,0 +1,181 @@
+.footer {
+    width: 100%;
+    height: 599px;
+    background-color: #224F34;
+    margin-top: 200px;
+}
+
+.footer_header {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.shop,
+.Company,
+.logo_and_media,
+.form_section {
+    height: 70%;
+}
+
+.shop,
+.Company {
+    display: flex;
+    flex-direction: column;
+    width: 110px;
+
+}
+
+.shop span,
+.Company span {
+    margin-top: 20px;
+}
+
+.logo_and_media {
+
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form_section {
+
+    width: 487px;
+}
+
+.title_footer,
+.form_section h1 {
+
+    font-family: Roboto Slab;
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: uppercase;
+    max-width: 191px;
+    max-height: 29px;
+
+}
+
+.footer_logo {
+    max-width: 117px;
+    max-height: 61px;
+
+    font-family: Elephant;
+    font-size: 50px;
+    font-weight: 400;
+
+}
+
+.shop,
+.Company,
+.logo_and_media,
+.form_section h1,
+.footer_footer {
+    color: #ffffff;
+}
+
+.media h5 {
+    max-width: 135px;
+    max-height: 29px;
+    margin-top: 30px;
+    font-family: Roboto Slab;
+    font-size: 22px;
+
+    font-weight: 500;
+
+    text-transform: capitalize;
+}
+
+.media_icon {
+
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.footer_form {
+    width: 100%;
+
+    margin-top: 30px;
+}
+
+.form_section {
+    width: 487px;
+}
+
+.footer_form input,
+.footer_form button {
+
+    height: 57px;
+}
+
+.footer_form input {
+    width: 300px;
+    border-color: #A3F3BE;
+    text-align: center;
+    background-color: #224F34;
+    color: #ffffff;
+
+}
+
+.footer_form button {
+    width: 115px;
+    background-color: #A3F3BE;
+    border: none;
+    color: #224F34;
+}
+
+.footer_form button,
+.footer_form input {
+
+
+    font-family: Poppins;
+    font-size: 20px;
+
+    font-weight: 500;
+
+    text-transform: uppercase;
+}
+
+.form_section h1 {
+    margin-top: 20px;
+}
+
+.footer_footer {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.footer_footer hr {
+    width: 900px;
+}
+
+.footer_footer div {
+    display: flex;
+    justify-content: space-between;
+
+    width: 300px;
+    margin-left: 30px;
+}
+
+.footer_footer_span {
+
+    font-family: Poppins;
+    font-size: 20px;
+
+    font-weight: 600;
+
+    text-transform: capitalize;
+}
+
+@media screen and (max-width: 768px) {
+    
+
+    
+  }
+  

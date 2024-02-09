@@ -1,0 +1,44 @@
+.FeedbackCorner {
+    width: 100%;
+    height: 410px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.FeedbackCorner_cart_contain {
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+
+.FeedbackCorner>div {
+    height: 350px;
+    width: 1377px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.FeedbackCorner h1{
+    width: 400px;
+    height: 66px;
+    color: #224F34;
+font-family: Roboto Slab;
+font-size: 50px;
+
+font-weight: 500;
+
+}
+@media screen and (max-width: 768px) {
+    .FeedbackCorner_cart_contain {
+        flex-direction: column;
+        border: 1px solid red;
+        height: 700px;
+       
+        margin-top: 30px;
+    }
+
+    
+}

@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   height: 1100px;
+   width: 100%;
+   background-color:  #C2EFD4;
+}
+.header_text_image{
+    width: 1377px;
+    display: flex;
+    margin-top: 100px;
+}
+.contain_image{
+    width: 570px;
+    height: 717px;
+    flex: 1;
+}
+.text_container h1{
+    width: 649px;
+    height: 318px;
+    color: #224F34;
+   font-family: Rufina;
+   font-size: 86px;
+   font-weight: 700;
+}
+.text_container p{
+    width: 400px;
+    height: 159px;
+    color: #267D49;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 200%; 
+    margin-top: 20px;
+
+
+}
+.explore_now_buttom{
+    width: 258px;
+    height: 74px;
+    border-radius: 3px;
+   background: #224F34;
+   box-shadow: 6px 33px 59px 0px rgba(0, 0, 0, 0.30);
+   color: #FFF;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 30px;
+}
+.contain_image{
+    background-color: #2bab5e;
+    display: flex;
+    justify-content: center;
+   border-radius: 120px 50px  120px 50px;
+}
+
